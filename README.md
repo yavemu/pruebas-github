@@ -1,2 +1,2 @@
 # pruebas-github
-Pribando el cliento de GitHub
+Probando el cliente de GitHub
